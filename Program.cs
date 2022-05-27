@@ -1,2 +1,2 @@
-﻿var jumper = new Jumper();
+﻿var jumper = new Player();
 jumper.StartGame();
